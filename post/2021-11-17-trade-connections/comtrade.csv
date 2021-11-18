@@ -1,0 +1,48 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2020,2020,2020,0,0,1,Import,36,Australia,AUS,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61053938665,,,4
+H5,2020,2020,2020,0,0,2,Export,36,Australia,AUS,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,100085567846,,,4
+H5,2020,2020,2020,0,0,1,Import,36,Australia,AUS,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9824953381,,,4
+H5,2020,2020,2020,0,0,2,Export,36,Australia,AUS,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2048237038,,,4
+H5,2020,2020,2020,0,0,1,Import,36,Australia,AUS,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5032172540,,,4
+H5,2020,2020,2020,0,0,2,Export,36,Australia,AUS,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10209926484,,,4
+H5,2020,2020,2020,0,0,1,Import,36,Australia,AUS,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25141626458,,,4
+H5,2020,2020,2020,0,0,2,Export,36,Australia,AUS,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12989921361,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,114836641930,,,4
+H5,2020,2020,2020,0,0,2,Export,156,China,CHN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53481792162,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,105261228528,,,4
+H5,2020,2020,2020,0,0,2,Export,156,China,CHN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,86823916905,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19762529717,,,4
+H5,2020,2020,2020,0,0,2,Export,156,China,CHN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72605124636,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,135996512740,,,4
+H5,2020,2020,2020,0,0,2,Export,156,China,CHN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,452576714868,,,4
+H5,2020,2020,2020,0,0,1,Import,276,Germany,DEU,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2674442865,,,4
+H5,2020,2020,2020,0,0,2,Export,276,Germany,DEU,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9797934315,,,4
+H5,2020,2020,2020,0,0,1,Import,276,Germany,DEU,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,134918978465,,,4
+H5,2020,2020,2020,0,0,2,Export,276,Germany,DEU,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,110372411271,,,4
+H5,2020,2020,2020,0,0,1,Import,276,Germany,DEU,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39428018443,,,4
+H5,2020,2020,2020,0,0,2,Export,276,Germany,DEU,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76506797150,,,4
+H5,2020,2020,2020,0,0,1,Import,276,Germany,DEU,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78402821566,,,4
+H5,2020,2020,2020,0,0,2,Export,276,Germany,DEU,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,119199209961,,,4
+H5,2020,2020,2020,0,0,1,Import,826,United Kingdom,GBR,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10142579076,,,4
+H5,2020,2020,2020,0,0,2,Export,826,United Kingdom,GBR,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5178499796,,,4
+H5,2020,2020,2020,0,0,3,Re-Export,826,United Kingdom,GBR,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,615584821,,,0
+H5,2020,2020,2020,0,0,1,Import,826,United Kingdom,GBR,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75478932256,,,4
+H5,2020,2020,2020,0,0,2,Export,826,United Kingdom,GBR,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18512671577,,,4
+H5,2020,2020,2020,0,0,3,Re-Export,826,United Kingdom,GBR,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4294687212,,,0
+H5,2020,2020,2020,0,0,1,Import,826,United Kingdom,GBR,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74403159908,,,4
+H5,2020,2020,2020,0,0,2,Export,826,United Kingdom,GBR,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41631996783,,,4
+H5,2020,2020,2020,0,0,1,Import,826,United Kingdom,GBR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,58221696936,,,4
+H5,2020,2020,2020,0,0,2,Export,826,United Kingdom,GBR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55608216397,,,4
+H5,2020,2020,2020,0,0,3,Re-Export,826,United Kingdom,GBR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10001550651,,,0
+H5,2020,2020,2020,0,0,1,Import,842,USA,USA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14334509767,,,4
+H5,2020,2020,2020,0,0,2,Export,842,USA,USA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23473180215,,,4
+H5,2020,2020,2020,0,0,3,Re-Export,842,USA,USA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2709018666,,,4
+H5,2020,2020,2020,0,0,1,Import,842,USA,USA,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,457164215509,,,4
+H5,2020,2020,2020,0,0,2,Export,842,USA,USA,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,124648507633,,,4
+H5,2020,2020,2020,0,0,3,Re-Export,842,USA,USA,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14072695774,,,4
+H5,2020,2020,2020,0,0,1,Import,842,USA,USA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,117393017842,,,4
+H5,2020,2020,2020,0,0,2,Export,842,USA,USA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57163225956,,,4
+H5,2020,2020,2020,0,0,3,Re-Export,842,USA,USA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7646083875,,,4
+H5,2020,2020,2020,0,0,1,Import,842,USA,USA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50839851484,,,4
+H5,2020,2020,2020,0,0,2,Export,842,USA,USA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58975470173,,,4
+H5,2020,2020,2020,0,0,3,Re-Export,842,USA,USA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7127039186,,,4
