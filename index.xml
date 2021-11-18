@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Market Movements</title>
+    <link>https://paper-returns-error.netlify.app/</link>
+    <description>Recent content on Market Movements</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://paper-returns-error.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conclusion</title>
+      <link>https://paper-returns-error.netlify.app/post/2021-11-17-conclusion/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://paper-returns-error.netlify.app/post/2021-11-17-conclusion/</guid>
+      <description>Clearly, many countries&#39; economies (or at least those we observed) are connected. We now know some explicit reasons why some of them are connected (like Australia and China, or proximity between Europe and Britain), but overall, I think it is better to see the ups and downs of markets as investor speculation. Certainly, political factors, history, and government meddling aside, we are looking at indices, and what most affects the prices of indices (on the short term) are just people.</description>
+    </item>
+    
+    <item>
+      <title>Trade Connections</title>
+      <link>https://paper-returns-error.netlify.app/post/2021-11-17-trade-connections/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://paper-returns-error.netlify.app/post/2021-11-17-trade-connections/</guid>
+      <description>So previously we talked about how there were correlations between index growth rates between countries. However, we were left with some discrepancies, namely the disproportionate and unexpected connections. I believe that at least some of this can be addressed through looking at how each country trades. Surely, if China traded way more with Australia in contrast with other countries, then their economies must be at least more related right?</description>
+    </item>
+    
+    <item>
+      <title>Age and Variance</title>
+      <link>https://paper-returns-error.netlify.app/post/2021-11-16-age-and-variance/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://paper-returns-error.netlify.app/post/2021-11-16-age-and-variance/</guid>
+      <description>Since we can’t really measure political and historical connections, how about we look at something entirely different?
+You may have noticed in the graphs in the first post that the Chinese CSI 300 index appears to be quite a lot more volatile than the other indices. Perhaps this is due to age: (note that the recorded data may differ in years to age due to missing records or retro calculation)</description>
+    </item>
+    
+    <item>
+      <title>World GDP growth</title>
+      <link>https://paper-returns-error.netlify.app/post/2021-11-16-world-gdp-growth/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://paper-returns-error.netlify.app/post/2021-11-16-world-gdp-growth/</guid>
+      <description>Now previously, we had a brief look at how age can affect volatility in growth rate - though it didn’t show much of a pattern. Here, let’s approach this while looking at the world economy instead. Certainly, there must be similarities in growth rates between that of global GDP and the various indices we chose. In fact, I would presume that Australia and China would have a higher connection due to the amount of exports their economies have.</description>
+    </item>
+    
+    <item>
+      <title>Growth of Indices Over Time</title>
+      <link>https://paper-returns-error.netlify.app/post/2021-11-15-growth-of-indices-over-time/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://paper-returns-error.netlify.app/post/2021-11-15-growth-of-indices-over-time/</guid>
+      <description>In our modern-day global economy, we would expect economies to be interlinked. One great example of interlinked markets is how the Global Financial Crisis shocked not only the American economy, but also that of Australia’s, of Europe’s… In fact, the GFC affected the entire world’s economy.
+Here, I would like to demonstrate a graph over time of major indices of five economies:- the Australian ASX 200- the Chinese CSI 300- the European SNP 350- the English FTSE 100- and the American SNP 500.</description>
+    </item>
+    
+    <item>
+      <title>Global Correlations</title>
+      <link>https://paper-returns-error.netlify.app/post/2021-11-12-global-correlations/</link>
+      <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://paper-returns-error.netlify.app/post/2021-11-12-global-correlations/</guid>
+      <description>Now that we know that world economies are at least somewhat related, what can we do to measure the ‘relatedness’ and compare them? Well, we can use the growth rates in the previous post to calculate the correlation between two indices. The following map shows these correlations:
+Now here it gets interesting. It should be quite obvious that countries would have more correlation based on their proximity, most obviously seen in the relatively bolder lines between China and Australia, and between Britain and Europe (although Europe isn’t a country).</description>
+    </item>
+    
+  </channel>
+</rss>
